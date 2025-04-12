@@ -12,7 +12,7 @@ Each red light camera object in this program has 7 attributes
     Neighborhood - The neighborhood a given camera is located in.
 These attributes serve as the basis of which this program analyzes data from.
 
-To use this program, you first need to input a file containing red light data for the program to read from.
+To use this program, you first need to input a text file containing red light data for the program to read from. There are three provided with this program as a reference to how the files should be formatted.
 Once that is done, the program will display a menu with 5 options:
 
 1: Data overview
